@@ -3,6 +3,10 @@
 	background: #0078d7;
 }
 
+.icon-live:before {
+	content: "\e7ab";
+}
+
 /* Style button in profile settings */
 .btn-live, .link-live span {
 	background: #0078d7;
