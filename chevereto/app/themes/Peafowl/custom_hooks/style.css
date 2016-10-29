@@ -1,0 +1,9 @@
+/* Button in login screen */
+.btn-live {
+	background: #0078d7;
+}
+
+/* Style button in profile settings */
+.btn-live, .link-live span {
+	background: #0078d7;
+}
